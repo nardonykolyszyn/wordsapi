@@ -18,10 +18,6 @@ class Base
 
   private
 
-  def has_types_endpoint(word)
-    "/#{word}/hasTypes"
-  end
-
   def connection
     @connection ||= Faraday.new(service_url) do |config|
       config.request :json
