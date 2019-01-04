@@ -2,6 +2,8 @@
 [![Gem Version](https://badge.fury.io/rb/wordsapi.svg)](https://badge.fury.io/rb/wordsapi)
 [Official documentation](https://rapidapi.com/wordsapi/api/wordsapi)
 
+[About Ruby magic comment](https://medium.com/bit-concept/ruby-about-deep-symbolize-keys-and-frozen-string-literal-true-e773725549ad)
+
 ## Installation
 
 Add this to your Gemfile:
